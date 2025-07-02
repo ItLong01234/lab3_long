@@ -1,0 +1,5 @@
+<style>
+.hover-strong{color: brown;/*brown*/transition: color 0.3s;
+}
+.hover-strong:hover{color: red;/*red*/}
+</style>
